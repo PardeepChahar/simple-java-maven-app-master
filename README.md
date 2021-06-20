@@ -1,4 +1,4 @@
-# This project has webhook enabled
+# This project has webhook configured
 # simple-java-maven-app
 
 This repository is for the
